@@ -1,5 +1,4 @@
-# RA-3.1_SamuelSabogal
-# Gemelo Digital: Sistema Automatizado de Control de Nivel de Tanque (RA 2.3)
+# RA-3.2_SamuelSabogal
 
 ## 1. Descripción General y Objetivo
 Este proyecto implementa un **Gemelo Digital (Digital Twin)** para el monitoreo, control y supervisión del nivel de líquido en un tanque industrial. El sistema integra lógica de control programada bajo el estándar IEC 61131-3 (Diagrama Ladder en **CODESYS**), una interfaz humano-máquina (**HMI local**), un puente de integración **Software-in-the-Loop (Python)** y un panel de telemetría y mando remoto en la nube (**Ubidots IoT**).
